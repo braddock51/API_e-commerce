@@ -1,1 +1,1 @@
-## E-commerce with plants API written in django for UWM University project
+## E-commerce plants shop API written in django for UWM University project
